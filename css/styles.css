@@ -1,0 +1,9 @@
+/* Styling */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+h2 {
+  font-family: 'Open Sans';
+  text-transform: uppercase;
+  color: #a10022;
+  font-size: 6em;
+  text-align: center;
+}
